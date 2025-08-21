@@ -255,7 +255,6 @@ try {
 
 
 
-
 <section id="features" class="section-p1">
     <div class="fe-box"><img src="assets/img/feature/f1.png" alt=""><h6>Free Shipping</h6></div>
     <div class="fe-box"><img src="assets/img/feature/f2.png" alt=""><h6>Online Order</h6></div>
